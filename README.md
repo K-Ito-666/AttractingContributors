@@ -20,4 +20,10 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# List of Hair Color
+1. White
+2. Black
+4. Gold
+5. Silver
+6. Light Brown
+7. Brown
